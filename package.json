@@ -1,0 +1,17 @@
+{
+  "name": "jest-tls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test/failing.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "retry": "0.10.1"
+  },
+  "devDependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.15.5",
+    "jest": "22"
+  }
+}
